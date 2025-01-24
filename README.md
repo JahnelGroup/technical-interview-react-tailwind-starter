@@ -1,5 +1,22 @@
 # Todo List Application Requirements
 
+## Fullstack Requirements
+
+You are tasked with creating a simple todo list application using React, TypeScript, and optionally TailwindCSS on the Frontend and Node, TypeScript, Express, Postgres, and one of the following ORMs: Drizzle, Prisma, node-pg. Please implement the following features:
+
+1. Display a list of todos
+2. Add new todos
+3. Delete todos
+4. Implement basic styling to match the provided design (see design below)
+
+Bonus Features (if time allows):
+
+5. Mark todos as completed
+6. Filter todo by status (All, Active, Completed)
+7. Edit existing todos
+
+## Frontend Only Requirements
+
 You are tasked with creating a simple todo list application using React. Please implement the following features:
 
 1. Display a list of todo items
